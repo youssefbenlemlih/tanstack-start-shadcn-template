@@ -1,4 +1,3 @@
-// app/routes/__root.tsx
 import appCss from "@/styles/app.css?url";
 import {
   createRootRoute,
